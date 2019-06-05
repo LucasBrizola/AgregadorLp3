@@ -6,5 +6,43 @@ O projeto busca jsons em urls específicos, parseia-os como POJOs e os retransmi
 
 English version:
 
-Aggregate API for LP3 class.
+Aggregator API for LP3 class.
 the project gets jsons from specified url's, parse them as POJO's and retransmit as a unique JSON.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eu estive aqui xD
